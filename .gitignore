@@ -34,3 +34,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# amplify
+.amplify
+amplifyconfiguration*
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.swo
+
+# Additional Amplify files (if applicable)
+amplify/.aws-exports.js
